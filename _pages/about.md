@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website of Jared Hutchins"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
