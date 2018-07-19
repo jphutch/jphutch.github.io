@@ -1,16 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Website of Jared Hutchins"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am also interested in the use of data science tools such as supervised and unsupervised machine learning to broaden tools available to economists, especially in the analysis of large observational data sets. Some of my recent projects have been focused on applying such tools to large, animal level data sets on dairy farm productivity traditionally unused by economists to address questions relevant to policy and producers both in the US and abroad. To this end, my work has also been at the cross section between animal science and economics, especially as relates to evaluating the economic returns to adopting certain genotypes into certain management environments.  For brief summaries of my current projects, see the "Research" tab.
 
-A data-driven personal website
+In addition to exploring data science tools, I am also passionate about the use of open source statistical packages both to enhance economic analysis and to encourage transparency in research, especially through the use of Jupyter Notebooks.  For Jupyter Notebooks of my work, see my Gitlab page.  I am also fond of using Python to do data visualization of economic theory and analysis.  For examples of graphs I have created for various projects, see the "Code" tab.
+
+For questions and comments, please feel free to contact me at jhutchins@wisc.edu.
+
+
+<!-- 
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +55,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
