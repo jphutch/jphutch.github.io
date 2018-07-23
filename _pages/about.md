@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /images/header.jpg
+  caption: "Personal Website of Jared Hutchins"
 ---
 
 ![head image](https://jhutchinswisc.github.io/files/nz.jpg)
