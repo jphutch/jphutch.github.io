@@ -36,6 +36,7 @@ Work experience
   * Fundacion America Solidaria
   * Santiago, Chile
 
+Computer Skills
 ======
 * Advanced
   * Python
