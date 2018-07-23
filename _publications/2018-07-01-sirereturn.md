@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Heterogeneous Returns to Genetic Selection:| Evidence from Wisconsin Dairies"
+title: "Quantifying Heterogeneous Returns to Genetic Selection:<br/> Evidence from Wisconsin Dairies"
 collection: publications
 permalink: /publication/2018-07-01-sirereturn
 excerpt: 'We investigate heterogeneous returns to genetics in the dairy industry using herd testing data and explore the extent to which management practices can hinder or enhance the productivity of certain sires.'

@@ -1,5 +1,5 @@
 ---
-title: "Willingness to Pay for Breeding Technology:| Evidence from A Survey of Senegalese Dairy Farmers"
+title: "Willingness to Pay for Breeding Technology:<br/> Evidence from A Survey of Senegalese Dairy Farmers"
 collection: publications
 permalink: /publication/2018-01-01-senegal-breed
 excerpt: 'We analyze the willingness to pay of Senegalese dairy farmers for artificial insemination subject to breed and farmer characteristics.'
