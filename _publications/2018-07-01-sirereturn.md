@@ -7,6 +7,7 @@ date: 2018-07-01
 venue: 'Manuscript'
 paperurl: 'http://academicpages.github.io/files/notavailableyet'
 citation: 'Hueth, B. Hutchins, J., Rosa G. (manusript). "Quantifying Heterogeneous Returns to Genetic Selection: Evidence from Wisconsin Dairies"
+---
 
 *with Brent Hueth and Guilherme Rosa*
 
