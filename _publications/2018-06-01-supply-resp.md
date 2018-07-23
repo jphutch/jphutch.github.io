@@ -2,7 +2,7 @@
 title: "Supply Response in Dairy Farming:<br/> Evidence from Monthly, Animal-Level Data"
 collection: publications
 permalink: /publication/2018-06-01-supply-resp
-excerpt: 'Using a monthly, animal level data set, we analyze supply response at the animal level which isolates the intensive margin response, that is use of more inputs, subject to the production process.'
+excerpt: '*with Brent Hueth* <br/>Using a monthly, animal level data set, we analyze supply response at the animal level which isolates the intensive margin response, that is use of more inputs, subject to the production process.'
 date: 2018-06-01
 venue: 'Manuscript'
 ---
