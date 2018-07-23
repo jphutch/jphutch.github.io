@@ -6,37 +6,48 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[pdf version of CV](http://jhutchinswisc.github.io/files/cv.pdf)
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Economics, American University, 2013
+* Ph.D in Agricultural and Applied Economics, University of Wisconsin - Madison, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2015 to present: Research Assistant
+  * Department of Agricultural and Applied Economics
+  * University of Wisconsin-Madison
+  * Supervisor: Brent Hueth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Spring 2013: Research Intern
+  * Inter-American Development Bank
+  * Washington, DC
+  * Supervisor: Paul Winters
+
+* May 2012 - Aug 2013: Document Management Intern
+  * Wage and Hour Division, U.S. Department of Labor
+  * Washington, DC
+  * Supervisor: Dan Daly
+
+* Fall 2011: Research Intern
+  * Fundacion America Solidaria
+  * Santiago, Chile
+
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced
+  * Python
+  * R
+  * Stata
+  * Latex
+* Intermediate
+  * Matlab
+  * SQL
+  * Unix Shell
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,6 +65,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
