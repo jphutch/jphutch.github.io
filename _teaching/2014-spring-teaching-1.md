@@ -12,12 +12,3 @@ location: "Madison, WI"
 - Graded homeworks, exams, and analysis projects. 
 
 [Example handout found here](http://jhutchinswisc.github.io/files/discussion5.pdf)
-<!-- 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
