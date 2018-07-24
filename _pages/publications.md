@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: http://jhutchinswisc.github.io/images/goat_header.jpg
 ---
 
 {% if author.googlescholar %}
