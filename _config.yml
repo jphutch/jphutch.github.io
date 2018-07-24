@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Jared P Hutchins"
-  avatar           : "/images/profile.png"
+  avatar           : http://jhutchinswisc.github.io/images/profile.png
   bio              : "PhD Candidate in Agricultural and Applied Economics at the University of Wisconsin - Madison, researcher in agricultural and development economics."
   location         : "Madison, WI"
   employer         :
