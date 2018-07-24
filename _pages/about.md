@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/nz.jpg
+  overlay_image: '/images/nz.jpg'
 ---
 
 I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. 
