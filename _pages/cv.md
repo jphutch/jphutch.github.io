@@ -5,8 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_image: http://jhutchinswisc.github.io/images/CV_header.jpg
 ---
-[pdf version of CV](http://jhutchinswisc.github.io/files/cv.pdf)
+[Click here for a pdf version of my CV](http://jhutchinswisc.github.io/files/cv.pdf)
 
 {% include base_path %}
 
