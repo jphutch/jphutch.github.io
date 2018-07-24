@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<h2> Works in Progress <h2/>
-======
+<h2> Works in Progress </h2>
+-----
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
