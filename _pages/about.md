@@ -10,9 +10,7 @@ header:
   overlay_image: http://jhutchinswisc.github.io/images/cow_header.jpg
 ---
 
-I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. 
-
-I am also interested in the use of data science tools such as supervised and unsupervised machine learning to broaden tools available to economists, especially in the analysis of large observational data sets. Some of my recent projects have been focused on applying such tools to large, animal level data sets on dairy farm productivity traditionally unused by economists to address questions relevant to policy and producers both in the US and abroad. To this end, my work has also been at the cross section between animal science and economics, especially as relates to evaluating the economic returns to adopting certain genotypes into certain management environments.  For brief summaries of my current projects, see the "Research" tab.
+I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects, see the "Research" tab.
 
 In addition to exploring data science tools, I am also passionate about the use of open source statistical packages both to enhance economic analysis and to encourage transparency in research, especially through the use of Jupyter Notebooks.  For Jupyter Notebooks of my work, see my Gitlab page.  I am also fond of using Python to do data visualization of economic theory and analysis.
 
