@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor and Facilitator"
 permalink: /teaching/shepcross
 venue: "Shepherd's Cross with Njala University"
-date: 2019-03
+date: 2019-03-15
 location: "Njala, Sierra Leone"
 ---
 - Taught two days of in-class instruction on small ruminant management, nutrition, and health.
