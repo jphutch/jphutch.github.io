@@ -1,7 +1,7 @@
 ---
 title: "Quantifying Heterogeneous Returns to Adoption of Genetics: :<br/> The Case of the Dairy Industry"
-collection: publications
-permalink: /publication/2018-07-01-sirereturn
+collection: worksprogress
+permalink: /worksprogress/2018-07-01-sirereturn
 excerpt: '*with Brent Hueth and Guilherme Rosa* <br/> We investigate heterogeneous returns to genetics in the dairy industry using herd testing data and explore the extent to which management practices can hinder or enhance the productivity of certain sires.'
 date: 2018-07-01
 venue: 'Manuscript'
