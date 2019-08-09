@@ -14,6 +14,7 @@ location: "Njala, Sierra Leone"
 Shepherd's Cross is a faith based, non-profit organization focused on agricultural eduction in livestock handling and wool processing. The project was a partnership with the Department of Animal Science at Njala University in Njala, Sierra Leone. 
 
 [Shepherd's Cross](https://www.shepherdscross.com/)
+
 [Animal Science at Njala University](https://njala.edu.sl/agriculture/animal-sciences)
 
 
