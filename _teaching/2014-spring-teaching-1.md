@@ -11,4 +11,8 @@ location: "Madison, WI"
 - Developed handouts and practice problems for all the discussion sections.
 - Graded homeworks, exams, and analysis projects. 
 
-[Example handout found here](http://jhutchinswisc.github.io/files/discussion5.pdf)
+Example handouts:
+[Discussion 5](http://jhutchinswisc.github.io/files/discussion5.pdf)
+[Discussion 4](http://jhutchinswisc.github.io/files/discussion4.pdf)
+
+[Student Evaluations](http://jhutchinswisc.github.io/files/teaching_evals.pdf)
