@@ -19,9 +19,12 @@ header:
 {% endfor %}
 
 
-<h2> Works in Progress </h2>
+{% include base_path %}
+<h2> Working Papers </h2>
 {% for post in site.worksprogress reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
 -----
 
