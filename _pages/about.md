@@ -10,7 +10,7 @@ header:
   overlay_image: http://jhutchinswisc.github.io/images/cow_header.jpg
 ---
 
-I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. I am an applied microeconomists focusing on topics important to the agricultural sector, including dynamic decision making, technology adoption, and cooperatives. My job market paper analyzes dynamic asset replacement on dairy farms, investigating the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/JMP.pdf)
+I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. I am an applied microeconomist focusing on topics important to the agricultural sector, including dynamic decision making, technology adoption, and cooperatives. My job market paper analyzes dynamic asset replacement and investigates the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/JMP.pdf)
 
 Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. 
 
