@@ -7,6 +7,7 @@ author_profile: true
 header:
   overlay_image: http://jhutchinswisc.github.io/images/goat_header.jpg
 ---
+[Click here to view my research statement.](http://jhutchinswisc.github.io/files/Jared_Hutchins_Research_Statement.pdf)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

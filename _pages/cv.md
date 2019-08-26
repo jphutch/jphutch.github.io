@@ -10,8 +10,8 @@ redirect_from:
 header:
   overlay_image: http://jhutchinswisc.github.io/images/CV_header.jpg
 ---
-[Click here for a pdf version of my CV](http://jhutchinswisc.github.io/files/cv.pdf)
-
+[Click here for a pdf version of my CV](http://jhutchinswisc.github.io/files/Jared_Hutchins_CV.pdf)
+<!-- 
 {% include base_path %}
 
 Education
@@ -70,4 +70,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+ -->

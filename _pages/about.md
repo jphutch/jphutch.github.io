@@ -12,11 +12,13 @@ header:
 
 I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. I am an applied microeconomist focusing on topics important to the agricultural sector, including dynamic decision making, technology adoption, and cooperatives. My job market paper analyzes dynamic asset replacement and investigates the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/JMP.pdf)
 
-Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. 
+Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. [Click here to view my research statement.](http://jhutchinswisc.github.io/files/Jared_Hutchins_Research_Statement.pdf)
 
-I am also passionate about teaching both academic audiences and non-academic audiences. Ind addition to being TA for an undergraduate course on commodity markets at UW Madison, I have led a two-day seminar on animal husbandry for small ruminants with Njala University in Sierra Leone. For more details about these experiences, see the "Teaching" tab. [Click here to view my teaching statement.](http://jhutchinswisc.github.io/files/teaching_statement.pdf)
+I am also passionate about teaching both academic audiences and non-academic audiences. Ind addition to being TA for an undergraduate course on commodity markets at UW Madison, I have led a two-day seminar on animal husbandry for small ruminants with Njala University in Sierra Leone. For more details about these experiences, see the "Teaching" tab. [Click here to view my teaching statement.](http://jhutchinswisc.github.io/files/Jared_Hutchins_Teaching_Statement.pdf)
 
 <!-- In addition to exploring data science tools, I am also passionate about the use of open source statistical packages both to enhance economic analysis and to encourage transparency in research, especially through the use of Jupyter Notebooks.  For Jupyter Notebooks of my work, see my Gitlab page.  I am also fond of using Python to do data visualization of economic theory and analysis. -->
+
+For a copy of my CV, click [click here](http://jhutchinswisc.github.io/files/Jared_Hutchins_CV.pdf)
 
 For an overview of some of my talks and presentations, see the "Talks" tab.
 
