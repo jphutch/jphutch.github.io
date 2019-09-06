@@ -14,17 +14,13 @@ header:
 {% endif %}
 
 {% include base_path %}
-<h2> Working Papers </h2>
+<h2> Research Projects </h2>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 
-{% include base_path %}
-<h2> Working Papers </h2>
-{% for post in site.worksprogress reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 
 -----
