@@ -13,7 +13,7 @@ header:
 
 I am a Ph.D. candidate in Agricultural and Applied Economics in the Department of Agricultural and Applied Economics at the University of Wisconsin - Madison. I am an applied microeconomist focusing on topics important to the agricultural sector, including dynamic decision making, technology adoption, and cooperatives. 
 
-I will be on the economics job market during the 2019-2020 academic year and am available for interview at the ASSA Annual Meeting Jan 2-5, 2020 in San Diego, California.
+I will be on the economics job market during the 2019-2020 academic year and am available for interview at the ASSA Annual Meeting January 3-5, 2020 in San Diego, California.
 
 My job market paper analyzes dynamic asset replacement and investigates the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/JMP.pdf)
 
