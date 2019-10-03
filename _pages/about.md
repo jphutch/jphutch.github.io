@@ -15,7 +15,7 @@ I am a Ph.D. candidate in Agricultural and Applied Economics in the Department o
 
 I will be on the economics job market during the 2019-2020 academic year and am available for interview at the ASSA Annual Meeting January 3-5, 2020 in San Diego, California.
 
-My job market paper analyzes dynamic asset replacement and investigates the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/JMP.pdf)
+My job market paper analyzes dynamic asset replacement and investigates the causes of high culling rates on Wisconsin dairy farms. For the latest draft of of my job market paper, [click here](http://jhutchinswisc.github.io/files/Jared_Hutchins_JMP.pdf)
 
 Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. [Click here to view my research statement.](http://jhutchinswisc.github.io/files/Jared_Hutchins_Research_Statement.pdf)
 
