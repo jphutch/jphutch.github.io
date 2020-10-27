@@ -8,6 +8,7 @@ excerpt: '*with Karen Marshall and Ayao Missohou*<br/> We analyze the factors af
     Specifically, those using a private provider value AI up to 25% more than those using a public campaign.
     Our analysis elucidates the unique challenges of improving livestock productivity via adoption of AI when mass provision by the government can affect service quality and undermine future adoption.
 '
+pubtype: 'working_paper'
 date: 2018-01-01
 venue: 'Manuscript'
 ---

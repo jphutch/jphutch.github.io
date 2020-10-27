@@ -13,15 +13,19 @@ header:
 {% endif %}
 
 {% include base_path %}
+
 <h2> Publications </h2>
 {% for post in site.pubs reversed %}
+{% if post.pubtype == 'publication' %}
   {% include archive-single.html %}
+    {% endif %}
 {% endfor %}
 
-{% include base_path %}
 <h2> Research Projects </h2>
 {% for post in site.publications reversed %}
+{% if post.pubtype == 'working_paper' %}
   {% include archive-single.html %}
+    {% endif %}
 {% endfor %}
 
 
