@@ -11,7 +11,7 @@ title                    : "Jared P Hutchins"
 title_separator          : "-"
 name                     : &name "Jared P Hutchins"
 description              : &description "Assistant Professor in Agricultural and Consumer Economics at the University of Illinois at Urbana-Champaign"
-url                      : https://jaredphutchins.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jphutch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jphutch/jphutch.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ author:
   name             : "Jared P Hutchins"
   avatar           : http://jphutch.github.io/images/profile.jpg
   bio              : "Assistant Professor in the Department of Agricultural and Consumer Economics at UIUC, researcher in agricultural and development economics."
-  location         : "Madison, WI"
+  location         : "Champaign, IL"
   employer         :
   googlescholar    : 
   email            : "jhutchins@wisc.edu"
