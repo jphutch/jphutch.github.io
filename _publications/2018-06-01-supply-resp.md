@@ -6,7 +6,7 @@ excerpt: '*with Brent Hueth* <br/>Milk production is allegedly inelastic to chan
 '
 date: 2019-05-01
 venue: 'Manuscript'
-paperurl: 'http://jhutchinswisc.github.io/files/price_response_paper.pdf'
+paperurl: 'http://jphutch.github.io/files/price_response_paper.pdf'
 ---
 
 *with Brent Hueth*

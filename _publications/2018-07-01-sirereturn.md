@@ -6,7 +6,7 @@ excerpt: '*with Brent Hueth and Guilherme Rosa* <br/> Estimates of productivity 
 '
 date: 2019-07-01
 venue: 'Manuscript'
-paperurl: 'http://jhutchinswisc.github.io/files/NBER_Working_Paper.pdf'
+paperurl: 'http://jphutch.github.io/files/NBER_Working_Paper.pdf'
 
 ---
 

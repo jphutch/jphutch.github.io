@@ -8,6 +8,6 @@ author_profile: true
 redirect_from:
   - /resume
 header:
-  overlay_image: http://jhutchinswisc.github.io/images/CV_header.jpg
+  overlay_image: http://jphutch.github.io/images/CV_header.jpg
 ---
-[Click here for a pdf version of my CV](http://jhutchinswisc.github.io/files/Jared_Hutchins_CV.pdf)
+[Click here for a pdf version of my CV](http://jphutch.github.io/files/Jared_Hutchins_CV.pdf)
