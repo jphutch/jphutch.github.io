@@ -15,7 +15,7 @@ header:
 {% include base_path %}
 
 <h2> Publications </h2>
-{% for post in site.pubs reversed %}
+{% for post in site.publications reversed %}
 {% if post.pubtype == 'publication' %}
   {% include archive-single.html %}
     {% endif %}
