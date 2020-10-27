@@ -7,23 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: http://jhutchinswisc.github.io/images/cow_header.jpg
+  overlay_image: http://jphutch.github.io/images/cow_header.jpg
 ---
 
 
-I am an applied microeconomist focusing on topics important to the agricultural sector, including dynamic decision making, technology adoption, and cooperatives. I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Wisconsin - Madison and an incoming Assistant Professor in the Department of Agricultural and Consumer Economics (ACE) at the University of Illinois at Urbana-Champaign starting in Fall 2020.
+I am an applied microeconomist and an Assistant Professor in the Department of Agricultural and Consumer Economics (ACE) at the University of Illinois at Urbana-Champaign. My research focuses on topics important to the agricultural sector including technology and innovation, dynamic decision making, and the role of cooperatives in the economy.
 
 Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. 
 
-I am also passionate about teaching both academic audiences and non-academic audiences. In addition to being TA for an undergraduate course on commodity markets at UW Madison, I have led a two-day seminar on animal husbandry for small ruminants with Njala University in Sierra Leone. For more details about these experiences, see the "Teaching" tab. 
-
 <!-- In addition to exploring data science tools, I am also passionate about the use of open source statistical packages both to enhance economic analysis and to encourage transparency in research, especially through the use of Jupyter Notebooks.  For Jupyter Notebooks of my work, see my Gitlab page.  I am also fond of using Python to do data visualization of economic theory and analysis. -->
 
-For a copy of my CV, [click here.](http://jhutchinswisc.github.io/files/Jared_Hutchins_CV.pdf)
+For a copy of my CV, [click here.](http://jphutch.github.io/files/Jared_Hutchins_CV.pdf)
 
-For an overview of some of my talks and presentations, see the "Talks" tab.
-
-For questions and comments, please feel free to contact me at jhutchins@wisc.edu.
+For questions and comments, please feel free to contact me at jhtchns2@illinois.edu.
 
 
 <!-- 
