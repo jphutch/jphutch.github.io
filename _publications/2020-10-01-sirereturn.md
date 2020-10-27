@@ -13,6 +13,8 @@ and select genetics well suited to their production environment, and not solely 
 the genetics they choose.
 '
 venue: 'Economics of Research and Innovation and Agriculture'
+date: 2020-10-01
+
 paperurl: 'https://www.nber.org/papers/w26417'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Supply Response in Dairy Farming:<br/> Evidence from Monthly, Animal-Level Data"
 collection: publications
-permalink: /publication/2018-06-01-supply-resp
+permalink: /publication/2020-05-01-supply-resp
 excerpt: '*with Brent Hueth* <br/>We estimate short-run, price response in dairy farming using nearly 10 million
 monthly animal-level observations across 2,311 Wisconsin farms in the years 2011 to
 2014. We control for herd size and account for the age distribution of dairy cattle to
@@ -10,7 +10,7 @@ and beef prices. Specifically, we find the greatest supply response in age cohor
 relatively high marginal returns from feeding, with supply elasticities as high 0.286 for
 milk price and 0.713 for beef price.
 '
-date: 2019-05-01
+date: 2020-05-01
 venue: 'Manuscript'
 paperurl: 'http://jphutch.github.io/files/price_response_paper.pdf'
 ---
