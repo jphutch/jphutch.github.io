@@ -1,7 +1,7 @@
 ---
 title: "Quantifying Heterogeneous Returns to Adoption of Genetics:<br/> The Case of the Dairy Industry"
 collection: publications
-permalink: /publication/2020-10-01-sire_eval
+permalink: /publication/2020-10-01-sirereturn
 excerpt: '*with Brent Hueth and Guilherme Rosa* <br/> Estimates of productivity growth in the dairy sector attribute as much as half of observed
 growth to genetic improvement. Our work decomposes total productivity change
 on Wisconsin dairy farms due to genetics into separate effects for genetic improvement and
