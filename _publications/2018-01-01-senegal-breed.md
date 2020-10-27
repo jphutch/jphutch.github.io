@@ -12,7 +12,7 @@ date: 2018-01-01
 venue: 'Manuscript'
 ---
 
-*with Karen Marshall and Aya Missohou
+*with Karen Marshall and Aya Missohou, in Submission*
 
   We analyze the factors affecting willingness-to-pay (WTP) for artificial insemination (AI) breeding technology by smallholder dairy farmers in Senegal.
     AI is a critical tool for expanding access to new animal genetic resources and increasing livestock productivity in developing countries, but it faces significant barriers to adoption in Senegal despite government campaigns that provide new breeds with AI free of charge.
