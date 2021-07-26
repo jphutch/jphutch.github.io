@@ -1,5 +1,5 @@
 ---
-title: "ACE 456: Agricultural Policy"
+title: "ACE 456: Agricultural and Food Policies"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/ace456
