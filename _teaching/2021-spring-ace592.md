@@ -2,7 +2,7 @@
 title: "ACE 592 SAE: Data Science for Applied Economics"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/ace456
+permalink: /teaching/ace592
 venue: "University of Illinois at Urbana-Champaign"
 date: 2021-01-23
 location: "Urbana, IL"
