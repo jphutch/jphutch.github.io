@@ -16,7 +16,6 @@ the genetics they choose.
 venue: 'Economics of Research and Innovation and Agriculture'
 date: 2020-10-01
 pubtype: 'publication'
-
 paperurl: 'https://www.nber.org/papers/w26417'
 
 ---
