@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Heterogeneous Returns to Adoption of Genetics:<br/> The Case of the Dairy Industry"
+title: "Quantifying Heterogeneous Returns to Adoption of Genetics: The Case of the Dairy Industry "
 collection: publications
 permalink: /publication/2020-10-01-sirereturn
 excerpt: '*with Brent Hueth and Guilherme Rosa* <br/> 
