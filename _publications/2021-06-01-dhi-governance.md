@@ -2,9 +2,7 @@
 title: "Innovation Through Cooperative Data Governance: The Case of the US Dairy Sector"
 collection: publications
 permalink: /publication/2021-06-01-dhi-governance
-excerpt: 'We discuss a unique approach to innovation and data governance in agriculture using the dairy sector as a case study.
-The National Cooperative Dairy Herd Improvement Program is a decentralized system for collecting dairy farm data to produce valuable information on cattle genetics while keeping ownership of the data in the hands of the farmer.
-    The current landscape of digital agriculture could benefit by emphasizing cooperative ownership, setting uniform data standards, and decentralized operation that the NCDHIP has pioneered for the past century.'
+excerpt: '*With Brent Hueth*'
 paperurl: 'http://jphutch.github.io/files/Jared_Hutchins_Innovation_Draft.pdf'
 date: 2021-06-01
 pubtype: 'working_paper'

@@ -2,12 +2,7 @@
 title: "Learning by Demonstration: Willingness-to-Pay for Livestock Breeding Technology in Senegal"
 collection: publications
 permalink: /publication/2018-01-01-senegal-breed
-excerpt: '*with Karen Marshall and Ayao Missohou, in Submission*<br/> We analyze the willingness-to-pay for the breeding technology artificial insemination (AI) among dairy farming households in Senegal.
-    AI is a critical tool for expanding access to new animal genetic resources and increasing livestock productivity in developing countries, but it faces significant barriers to adoption in Senegal despite government campaigns that provide new breeds with AI free of charge.
-     We find that while WTP did not differ between the two methods for any breed on average, those with higher education and experience using a private sector provider valued AI more.
-    Specifically, those using a private provider value AI up to 25% more than those using a public campaign.
-    Our analysis elucidates the unique challenges of improving livestock productivity via adoption of AI when mass provision by the government can affect service quality and undermine future adoption.
-'
+excerpt: '*with Karen Marshall and Aya Missohou,* in Submission'
 pubtype: 'working_paper'
 date: 2020-01-01
 venue: 'Manuscript'
