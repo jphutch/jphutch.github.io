@@ -1,9 +1,8 @@
 ---
-title: "Innovation Through Cooperative Data Governance: The Case of the US Dairy Sector"
+title: "100 Years of Data Sovereignty: Cooperative Data Governance and Innovation in US Dairy"
 collection: publications
 permalink: /publication/2021-06-01-dhi-governance
-excerpt: '*With Brent Hueth*'
-paperurl: 'http://jphutch.github.io/files/Jared_Hutchins_Innovation_Draft.pdf'
+excerpt: '*With Brent Hueth,* Revise and Resubmit at Applied Economics Perspectives and Policy'
 date: 2021-06-01
 pubtype: 'working_paper'
 venue: Manuscript

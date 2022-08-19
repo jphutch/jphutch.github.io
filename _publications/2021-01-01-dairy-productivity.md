@@ -1,8 +1,7 @@
----
-title: "Learning by Demonstration: Willingness-to-Pay for Livestock Breeding Technology in Senegal"
+title: 'The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms.'
 collection: publications
 permalink: /publication/2018-01-01-senegal-breed
-excerpt: '*with Karen Marshall and Aya Missohou,* In Submission'
+excerpt: '*with Yating Gong and Xiaodong Du, R&R at American Journal of Agricultural Economics*<br/>'
 pubtype: 'working_paper'
 date: 2020-01-01
 venue: 'Manuscript'
