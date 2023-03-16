@@ -1,10 +1,11 @@
 ---
-title: "100 Years of Data Sovereignty: Cooperative Data Governance and Innovation in US Dairy"
+title: "Hutchins, Jared P, and Brent Hueth. 2023. ``100 years of data sovereignty: Cooperative data governance and innovation in US dairy.'' _Applied Economics Perspectives and Policy_ 1–-26 https://doi.org/10.1002/aepp.13339"
 collection: publications
-permalink: /publication/2021-06-01-dhi-governance
-excerpt: '*With Brent Hueth,* Revise and Resubmit at Applied Economics Perspectives and Policy'
-date: 2021-06-01
-pubtype: 'working_paper'
+permalink: /publication/2023-01-22-dhi-governance
+excerpt: ''
+date: 2023-01-22
+paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/aepp.13339'
+pubtype: 'publication'
 venue: Manuscript
 ---
 
