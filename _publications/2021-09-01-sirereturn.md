@@ -1,8 +1,8 @@
 ---
-title: 'Hutchins, Jared P, Brent Hueth, and Guilherme Rosa. 2021. “Quantifying Heterogeneous Returns to Genetic Selection: Evidence from Wisconsin Dairies.” *Economics of Research and Innovation in Agriculture* ed. Petra Moser (Chicago: University of Chicago Press, 2021)'
+title: 'Quantifying Heterogeneous Returns to Genetic Selection: Evidence from Wisconsin Dairies'
 collection: publications
 permalink: /publication/2021-09-01-sirereturn
-excerpt: ' '
+excerpt: 'Hutchins, Jared P, Brent Hueth, and Guilherme Rosa. 2021. “Quantifying Heterogeneous Returns to Genetic Selection: Evidence from Wisconsin Dairies.” *Economics of Research and Innovation in Agriculture* ed. Petra Moser (Chicago: University of Chicago Press, 2021)'
 date: 2021-09-01
 pubtype: 'publication'
 paperurl: 'https://www.nber.org/system/files/chapters/c14297/c14297.pdf'

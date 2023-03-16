@@ -1,8 +1,8 @@
 ---
-title: 'Hutchins, Jared P, Yating Gong, and Xiadong Du. 2023. ``The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms.'' American Journal of Agricultural Economics 1–-20 https://doi.org/10.1111/ajae.12374'
+title: 'The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms'
 collection: publications
 permalink: /publication/2023-02-27-dairy-productivity
-excerpt: ''
+excerpt: 'Hutchins, Jared P, Yating Gong, and Xiadong Du. 2023. ``The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms.'' American Journal of Agricultural Economics 1–-20 https://doi.org/10.1111/ajae.12374'
 pubtype: 'publication'
 paperurl: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajae.12374
 date: 2023-02-27

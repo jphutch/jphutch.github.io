@@ -1,5 +1,5 @@
 ---
-title: ' "Supply Response in Dairy Farming: Evidence from Monthly, Animal-Level Data", Journal of Agricultural and Resource Economics'
+title: 'Supply Response in Dairy Farming: Evidence from Monthly, Animal-Level Data'
 collection: publications
 permalink: /publication/2022-01-01-supply-resp
 excerpt: 'Hutchins, Jared and Brent Hueth. 2022. "Supply Response in Dairy Farming: Evidence from Monthly, Animal-Level Data", Journal of Agricultural and Resource Economics, 47(1):38-56'
