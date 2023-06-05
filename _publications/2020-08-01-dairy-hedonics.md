@@ -1,5 +1,5 @@
 ---
-title: "\Do Livestock Producers Use Selection Indices?: Evidence from US Dairy Bull Prices"
+title: "Do Livestock Producers Use Selection Indices?: Evidence from US Dairy Bull Prices"
 collection: publications
 permalink: /publication/2020-08-01-dairy-hedonics
 excerpt: ''
