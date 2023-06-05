@@ -3,7 +3,7 @@ title: "\Do Livestock Producers Use Selection Indices?: Evidence from US Dairy B
 collection: publications
 permalink: /publication/2020-08-01-dairy-hedonics
 excerpt: ''
-date: 2020-08-01
+date: 2020-05-01
 paperurl: 'http://jphutch.github.io/files/ICABR_Submission.pdf'
 pubtype: 'working_paper'
 venue: Manuscript

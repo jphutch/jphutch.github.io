@@ -3,7 +3,7 @@ title: "Climate Change and the Livestock Sector: Impacts and Adaptation in the U
 collection: publications
 permalink: /publication/2020-08-01-heat-stress
 excerpt: '*with Marin Skidmore and Derek Nolan*'
-date: 2020-08-01
+date: 2020-06-01
 paperurl: 'http://jphutch.github.io/files/Heat_stress_paper_website.pdf'
 pubtype: 'working_paper'
 venue: Manuscript
