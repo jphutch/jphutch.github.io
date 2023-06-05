@@ -11,15 +11,16 @@ header:
 ---
 
 
-I am an applied microeconomist and an Assistant Professor in the Department of Agricultural and Consumer Economics (ACE) at the University of Illinois at Urbana-Champaign. My research focuses on topics important to the agricultural sector including technology and innovation, dynamic decision making, and the role of cooperatives in the economy.
+I am an applied microeconomist and an Assistant Professor in the Department of Agricultural and Consumer Economics (ACE) at the University of Illinois at Urbana-Champaign. My research focuses on production economics, agricultural innovation, and the role of institutions in the rural economy.
 
-Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to both agriculture and development economics, including production economics, dynamic asset replacement, agriculture credit, and technology adoption. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. 
+Leveraging some of my personal experience in the agriculture sector, my research has been focused on topics important to the economics field, including asset replacement, technology adoption, data governance, and institutions. Three of my notable areas of expertise are big data, dairy and livestock markets, and the role of genetic technology in agriculture. For brief summaries of my current projects and copies of my working papers, see the "Research" tab. 
 
+At Illinois, I teach a class called "Data Science for Applied Economics" aimed at graduate students in economics. My class materials can be found at [this GitHub repo.](https://github.com/jphutch/ACE-592-SAE)
 <!-- In addition to exploring data science tools, I am also passionate about the use of open source statistical packages both to enhance economic analysis and to encourage transparency in research, especially through the use of Jupyter Notebooks.  For Jupyter Notebooks of my work, see my Gitlab page.  I am also fond of using Python to do data visualization of economic theory and analysis. -->
 
 For a copy of my CV, [click here.](http://jphutch.github.io/files/Jared_Hutchins_CV.pdf)
 
-For questions and comments, please feel free to contact me at jhtchns2@illinois.edu.
+For questions and comments, please feel free to contact me at jhtchns2 at illinois dot edu.
 
 
 <!-- 
