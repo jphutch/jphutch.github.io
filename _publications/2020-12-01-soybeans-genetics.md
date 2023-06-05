@@ -2,7 +2,7 @@
 title: 'Productivity Growth from Genetic Improvement: Evidence from Soybean Trial Data'
 collection: publications
 permalink: /publication/2018-01-01-senegal-breed
-excerpt: '*with Scott Irwin* <br/>'
+excerpt: 'In Submission, *with Scott Irwin* <br/>'
 pubtype: 'working_paper'
 date: 2020-01-01
 venue: 'Manuscript'
