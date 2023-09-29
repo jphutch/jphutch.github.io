@@ -1,5 +1,5 @@
 ---
-title: "Climate Change and the Livestock Sector: Impacts and Adaptation in the US Dairy Sector"
+title: "Extreme Heat and Livestock Production: Cost and Adaptation in the US Dairy Sector"
 collection: publications
 permalink: /publication/2020-08-01-heat-stress
 excerpt: '*with Marin Skidmore and Derek Nolan*'
