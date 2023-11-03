@@ -22,6 +22,12 @@ For a copy of my CV, [click here.](http://jphutch.github.io/files/Jared_Hutchins
 
 For questions and comments, please feel free to contact me at jhtchns2 at illinois dot edu.
 
+Media mentions: [Bloomberg News](https://www.bloomberg.com/news/articles/2020-05-07/more-milk-cows-are-ending-up-as-hamburgers-in-latest-virus-twist#xj4y7vzkg), [Ambrook News](https://ambrook.com/research/supply-chain/dairy-farmers-milk-dumping), [Successful Farming](https://www.agriculture.com/traditional-dairy-states-catch-up-with-modern-ones-8384844), RFD-TV
+
+
+
+
+
 
 <!-- 
 
