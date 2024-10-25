@@ -11,5 +11,5 @@ The goal of this course is to teach students in applied economics how to use dat
 
 [Syllabus](http://jphutch.github.io/files/ACE592-syllabus.pdf)
 
-[GitHub Repo](https://github.com/jphutch/ACE_592)
+[GitHub Repo](https://github.com/jphutch/ACE-592-SAE)
 
