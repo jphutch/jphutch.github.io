@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization in Applied Economics Instruction and Outreach"
+title: "After One Decade of Genomic Testing, Are Milk Yields Being Impacted?"
 collection: publications
 permalink: /publication/2025-10-01-genomics-choices
 excerpt: 'Hutchin, Jared P, Victor Funes Leal 2025 “After One Decade of Genomic Testing, Are Milk Yields Being Impacted?” Choices 40:4'
