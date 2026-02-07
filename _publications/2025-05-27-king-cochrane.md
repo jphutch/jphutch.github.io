@@ -2,7 +2,7 @@
 title: "King and Cochrane: The Technological Treadmill and Racial Inequity in US Agriculture"
 collection: publications
 permalink: /publication/2025-05-27-king-cochrane
-excerpt: 'Hutchins, Jared P, and Jacopo DeMarinis “King and Cochrane: The Technological Treadmill
+excerpt: 'Hutchins, Jared P, and Jacopo DeMarinis. 2025. “King and Cochrane: The Technological Treadmill
 and Racial Inequity in US Agriculture” Applied Economics Perspectives and Policy 1-–21.
 https://doi.org/10.1002/aepp.13533'
 paperurl: 'http://jphutch.github.io/files/Hutchins_DeMarinis_2025.pdf'
