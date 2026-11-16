@@ -2,7 +2,7 @@
 title: "Market Valuations of Dairy Bull Characteristics and the Role of Selection Indices"
 collection: publications
 permalink: /publication/2026-05-01-dairy-hedonics
-excerpt: 'Hutchins, Jared P 2026 “Market Valuations of Dairy Bull Characteristics and the Role of Selection Indices” Journal of Agricultural and Resource Economics Accepted for publication '
+excerpt: 'Hutchins, Jared P 2026 “Market Valuations of Dairy Bull Characteristics and the Role of Selection Indices” Journal of Agricultural and Resource Economics, Accepted for publication '
 date: 2026-05-01
 paperurl: 'http://jphutch.github.io/files/DairyHedonics.pdf'
 pubtype: 'publication'
